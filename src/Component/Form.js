@@ -1,11 +1,8 @@
 import React from 'react';
-import './App.css';
-
-
 
 function Form() {
     return ( 
-      <div className="App">
+      <div>
         <h1>Admission Form</h1>
         <label>First Name:</label>
         <input className="inputname" type="text"/><br></br>
